@@ -1,0 +1,1 @@
+[{"title":"Cap","price":80,"stock":3,"barcode":"https://www.sansabacap.com/wp-content/uploads/2018/08/112FP_final.jpg","thumbnail":12315465,"description":"A trucker cap","id":1}]
